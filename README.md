@@ -1,6 +1,7 @@
 # Mars Rover Exploration Simulator
 
-![Zrzut ekranu 2023-09-18 104712](https://github.com/Szczygiel29/mars-exploration/assets/116550165/2618456b-190b-46b8-8118-1619c33844bc)
+
+![Zrzut ekranu 2023-09-18 104712](https://github.com/Szczygiel29/mars-exploration/assets/116550165/181adb87-30ee-423d-9d30-6d12d3ef81b6)
 
 
 ## Project Description
